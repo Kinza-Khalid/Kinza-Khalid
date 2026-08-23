@@ -1,10 +1,16 @@
-Hi there 👋
+# Hi, I'm Kinza Khalid! 👋
 
-Kinza-Khalid/Kinza-Khalid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BBIT Student @ IBIT, University of Punjab, Lahore
+💻 Front-End Web Developer | HTML • CSS • WordPress
+🐍 Learning Python & SQL
+📈 Interested in Business Development & Digital Marketing
 
-Here are some ideas to get you started:
+## 🚀 Projects
+- 🍽️ [Cafe Zaiqa](https://github.com/Kinza-Khalid/web-dev-projects) — Restaurant landing page
+- 💅 [Salon Lumière](https://github.com/Kinza-Khalid/web-dev-projects) — Beauty salon website  
+- 👗 [Boutique Noor](https://github.com/Kinza-Khalid/web-dev-projects) — Fashion boutique
+- 🛍️ [Product Card](https://github.com/Kinza-Khalid/web-dev-projects) — E-commerce UI
 
-- 🔭 I’m currently working on CPP , PYTHON , AI.
-- 🌱 I’m currently learning python,SQL.
-- 💬 Ask me about coding basics.
-- 📫 How to reach me f24bb044@ibitpu.edu.pk
+## 📫 Contact
+- LinkedIn: [Kinza Khalid](https://www.linkedin.com/in/kinza-khalid-821011379)
+- Email: f24bb044@ibitpu.edu.pk
